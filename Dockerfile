@@ -1,4 +1,4 @@
-# Use an official Tomcat image as a base image..
+# Use an official Tomcat image as a base image
 FROM tomcat:9.0.14-jre8-alpine
 
 LABEL maintainer="github.com/monicamarshall"
